@@ -1,0 +1,43 @@
+_repo: L-extraordinaire-aventure-d-Achmet-Pacha-Djemaleddine-pirate-amiral-grand-d-Espagne-et-marqui__53599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrère, Claude
+    aliases:
+    - Bargone, Francois Charles
+    - Farrere, Claude
+    - Bargone, Charles
+    - Bargone, François Charles
+    - Bargone, Frédéric Charles Pierre Édouard
+    - Toulven, Pierre
+    - Bargone, Frederic Charles Pierre Edouard
+    birthdate: 1876
+    deathdate: 1957
+    gutenberg_agent_id: '3805'
+    url: http://www.gutenberg.org/2009/agents/3805
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2016-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53599'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century'
+- !lcsh 'Short stories, French'
+- GITenberg
+tableOfContents: 'Jadis: L''extraordinaire aventure d''Achmet pacha Djemaleddine,
+  chef tcherkess, pirate, amiral, vali, grand d''Espagne, marquis de France et ami
+  de plusieurs sublimes princes -- Naguères: Sept lettres de princesse -- De tout
+  temps: Conscience turque. Histoire de chat. Histoire de chiens. Tripolitaine. Celui
+  qui est mort.'
+title: 'L''extraordinaire aventure d''Achmet Pacha Djemaleddine, pirate, amiral, grand
+  d''Espagne et marquis
+
+  avec six autres singulières histoires'
+url: http://www.gutenberg.org/ebooks/53599
