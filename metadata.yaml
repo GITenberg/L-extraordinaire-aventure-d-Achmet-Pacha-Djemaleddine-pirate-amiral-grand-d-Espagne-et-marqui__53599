@@ -1,5 +1,8 @@
 _repo: L-extraordinaire-aventure-d-Achmet-Pacha-Djemaleddine-pirate-amiral-grand-d-Espagne-et-marqui__53599
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53599-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrère, Claude
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3805
     wikipedia: http://en.wikipedia.org/wiki/Claude_Farrère
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53599#L-extraordinaire-aventure-d-Achmet-Pacha-Djemaleddine-pirate-amiral-grand-d-Espagne-et-marqui_
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2016-11-25'
 gutenberg_type: Text
